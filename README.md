@@ -1,24 +1,25 @@
-# 👋 Hi, I'm Janmejaya Jena
+# Software Developer | React Native | Full-Stack Development
 
-### Software Developer | React Native | Full-Stack Development
-
-I build production-ready mobile and web applications with a focus on
-scalable architecture, clean code, performance, and reliable user experiences.
+I build production-ready mobile and web applications with a focus on scalable
+architecture, clean code, performance, and reliable user experiences.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-I specialize in developing enterprise mobile and web applications using
-React Native, React.js, Next.js, TypeScript, and Node.js.
-
-I work across the full development lifecycle — from UI development and
-API integration to authentication, state management, database integration,
-deployment, and production optimization.
+I specialize in developing enterprise mobile and web applications using React
+Native, React.js, Next.js, TypeScript, JavaScript, and Node.js. My experience
+covers the full application development lifecycle, including UI development,
+responsive interfaces, state management, REST API integration, authentication
+and authorization, database integration, cloud services, deployment, and
+production optimization. I have worked on enterprise applications, HR and
+business systems, e-commerce platforms, real estate applications, and
+service-based platforms, with a strong focus on building maintainable,
+scalable, and user-focused software solutions.
 
 ---
 
-## 📊 Core Capabilities & Technical Stack
+## Core Capabilities & Technical Stack
 
 | Domain | Stack & Core Expertise | Tools & Engineering |
 |---|---|---|
@@ -35,24 +36,8 @@ deployment, and production optimization.
 
 ---
 
-## 📱 What I Build
+## Connect With Me
 
-- 📱 Enterprise Mobile Applications
-- 🌐 Full-Stack Web Applications
-- 🛒 E-Commerce Platforms
-- 🏢 HR & Business Applications
-- 🔐 Authentication & Role-Based Systems
-- 🔌 REST API Integrations
-- ☁️ Cloud-Connected Applications
+Portfolio: [https://janmejaya.vercel.app/](https://janmejaya.vercel.app/)
 
----
-
-## 🤝 Connect With Me
-
-🌐 **Portfolio:** https://janmejaya.vercel.app/
-
-💼 **LinkedIn:** https://www.linkedin.com/in/janmejaya-jena-9a1650237/
-
----
-
-### ⚡ Always building. Always learning. Always improving.
+LinkedIn: [https://www.linkedin.com/in/janmejaya-jena-9a1650237/](https://www.linkedin.com/in/janmejaya-jena-9a1650237/)
