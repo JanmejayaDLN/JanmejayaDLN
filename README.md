@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Janmejaya Jena
 
-<!--
-**JanmejayaDLN/JanmejayaDLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | React Native | Full-Stack Development
 
-Here are some ideas to get you started:
+I build production-ready mobile and web applications with a focus on
+scalable architecture, clean code, performance, and great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary expertise includes React Native, React.js, Next.js, TypeScript,
+JavaScript, Redux Toolkit, REST APIs, Firebase, Node.js, and modern
+full-stack application development.
+
+---
+
+## 🚀 What I Do
+
+- 📱 Build production-ready mobile applications using React Native
+- 🌐 Develop modern web applications using React.js and Next.js
+- 🧩 Build scalable applications with TypeScript and JavaScript
+- 🔌 Design and integrate REST APIs and backend services
+- 🔐 Implement authentication, authorization, and secure application flows
+- ⚡ Manage application state using Redux Toolkit
+- ☁️ Work with Firebase and cloud-based services
+- 🏗️ Design clean, maintainable, and scalable application architectures
+- 🚀 Optimize applications for performance and production environments
