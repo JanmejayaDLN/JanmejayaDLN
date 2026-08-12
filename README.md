@@ -1,21 +1,17 @@
-# Software Developer | React Native | Full-Stack Development
+# Software Developer | Architect
 
-I build production-ready mobile and web applications with a focus on scalable
-architecture, clean code, performance, and reliable user experiences.
+I design and build scalable mobile and web applications across the full software development lifecycle, with expertise in React Native, React.js, Next.js, TypeScript, Node.js, APIs, cloud services, and application architecture.
 
 ---
 
 ## What I Do
 
-I specialize in developing enterprise mobile and web applications using React
-Native, React.js, Next.js, TypeScript, JavaScript, and Node.js. My experience
-covers the full application development lifecycle, including UI development,
-responsive interfaces, state management, REST API integration, authentication
-and authorization, database integration, cloud services, deployment, and
-production optimization. I have worked on enterprise applications, HR and
-business systems, e-commerce platforms, real estate applications, and
-service-based platforms, with a strong focus on building maintainable,
-scalable, and user-focused software solutions.
+I work across mobile and web application development, from designing
+application architecture and reusable interfaces to implementing business
+logic, APIs, authentication, database integration, and deployment. I build
+enterprise applications, e-commerce platforms, business systems, real estate
+solutions, and service-based applications using modern frontend, backend, and
+cloud technologies.
 
 ---
 
